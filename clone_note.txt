@@ -1,0 +1,5 @@
+I just created Empty Remote repository from GitHub.com account by clicking on the plus icon on top right cornor and new repository and gave a name and clicked created
+
+And Cloned this repository by clicking on Set up in Desktop and (Optionally select the location) click on clone
+
+It cloned 
